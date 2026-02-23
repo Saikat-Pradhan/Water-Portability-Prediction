@@ -36,19 +36,29 @@ A classification model predicts whether water is good or poor using user inputs,
 
 ## ⚙️ Setup Guide (Run Locally)
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+
+```
+git clone https://github.com/Saikat-Pradhan/Water-Portability-Prediction.git
+cd Water-Portability-Prediction
+```
 
 2️⃣ Install Dependencies
+
+```
 pip install -r requirements.txt
+```
 
 3️⃣ Run the App
-streamlit run app.py
 
+```
+streamlit run app.py
+```
 
 Then open in browser:
 
+```
 http://localhost:8501
+```
 
 ## 📊 Dataset
 
